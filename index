@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ajouter un contact</title>
+    <style>
+        .download-btn {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 16px;
+            color: #fff;
+            background-color: #007bff;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Ajouter notre contact à votre répertoire</h1>
+    <p>Pour ajouter notre contact à votre répertoire, cliquez sur le bouton ci-dessous :</p>
+    <a href="https://example.com/contact.vcf" class="download-btn">Ajouter le contact</a>
+</body>
+</html>
